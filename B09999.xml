@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sedition unmask'd and exploded: or, Reflections on the seditious designs of some disaffected persons to ruin the present happy settlement of the nation</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09999</idno><idno type="EEBO-CITATION">69648915</idno>
+  <idno type="VID">185071</idno>
+  <idno type="EEBO-PROQUEST">2240862226</idno>
+  
+            <idno type="STC">Wing S2394</idno>
+            <idno type="STC">ESTC R224457</idno>
+            <idno type="OCLC">69648915</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185071)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sedition unmask'd and exploded: or, Reflections on the seditious designs of some disaffected persons to ruin the present happy settlement of the nation</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin, in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term type="personal_name">William --  III, --  King of England, 1650-1702.</term>
+               <term type="topical_term">Sedition --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:185071:1"/>
+            <head>SEDITION UNMASK'D and EXPLODED: OR, Reflections on the Seditious Designs of some Disaffect<g ref="char:EOLhyphen"/>ed Persons to Ruin the present Happy Settlement of the Nation.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed and Entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THE present Establ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shment in this State, was made with so much Peace and general Satisfaction a<g ref="char:EOLhyphen"/>mong all sorts of <hi>Pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>testants,</hi> that no Man would guess but that it was done with the Universal Consent of the Nation: they seem'd passionately to desire it▪ as the only Security of the <hi>Protestant Religion,</hi> and their Native Liberty and Property; and according<g ref="char:EOLhyphen"/>ly, when obtain'd, they approved it with all the demonstrations of publick Joy and Tri<g ref="char:EOLhyphen"/>umph imaginable. None but the <hi>Roman-Ca<g ref="char:EOLhyphen"/>tholicks</hi> were disgusted, <hi>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey</hi> alone seem'd to labour under any discontent, or to re<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine, at the late Revolution: And their dissatisfaction had thus much of excuse in it, That it was the genuine effect of their zeal for their Reli<g ref="char:EOLhyphen"/>gion, which they apprehended was in danger of a total extirpation, since they had lost King <hi>James,</hi> whom they always esteem'd its in vincible Patron and Protector. Hence it was, they could not behold the downfal of that unfortunate Monarch, without insupportable passion; having been all along transported with the most flour<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shing hopes of his rising Grandeur, and of seeing the <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi> Faith pro<g ref="char:EOLhyphen"/>pagated in these Nations, under the auspici<g ref="char:EOLhyphen"/>ous influence of his Reign: so that their sor<g ref="char:EOLhyphen"/>row and discontents admit of some Apology. The late Eclipse of King <hi>James</hi> his Lustre and Glory might well draw sighs from their hearts, and tears from their eyes, who were of his own Religion, and had for some time bask'd in the Sunshine of his Prosperity. Gra<g ref="char:EOLhyphen"/>titude it self must needs prompt <hi>them</hi> to con<g ref="char:EOLhyphen"/>dole his misfortunes, whom he had warm'd with his Royal Favours. Grief and Compassion were but the due Attendants on their Master's Fall. They could do no less in Nature and Honour, than accompany the obscure <hi>Exit</hi> of their once-glorious Sovereign wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h some su<g ref="char:EOLhyphen"/>nest thoughts and resentments. All this was within the Verge of Nature and Humanity. But there is a Time and a Measure for all things. <hi>Ne quid nimis▪</hi> was wholsom Advice. Men are not obliged to exhaust their Vitals in unprofitable mourning for the loss of a Friend or Patron; neither had it been pru<g ref="char:EOLhyphen"/>dence in the <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man Catholicks</hi> by an unseaso<g ref="char:EOLhyphen"/>nable and long continued peevishness to have render'd themselves burdensom, and an eye<g ref="char:EOLhyphen"/>sore to the rest of the Nation; and by a too passionate fondness for a lost Interest, to for<g ref="char:EOLhyphen"/>feit that which they might otherwise keep.</p>
+            <p>And yet, i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this be not their fault, there are another sort of people in the Nation, who are guilty of it, a kind of Malecontents who go up and down, insinuating themselves into all Compan<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and privately sowing the Seeds of Sedition in such tempers as they find flexi<g ref="char:EOLhyphen"/>ble enough to receive them. These Men mur<g ref="char:EOLhyphen"/>mur at the present Posture of Aff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irs, whis<g ref="char:EOLhyphen"/>pering▪ <hi>That all <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as ill<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gal and unjustifiable;</hi> challenging their Superiours with the <hi>Dep<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>si<g ref="char:EOLhyphen"/>tion of their lawful Sovereign.</hi> And casting in<g ref="char:EOLhyphen"/>vidious Reflections on the Government, they say▪ <hi>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at the Doctrine of</hi> Mariana <hi>the</hi> Spanish <hi>Jesuit is now practica<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly translated into</hi> English; <hi>and that Men need not any longer be beh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lding to</hi> Rome <hi>for Dispensations and Absolutions▪ since in</hi> England <hi>every Man has found out the way to b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>come his <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn Conf<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssor, and can r<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y abs<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lve him<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f from Oaths of A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>legiance,</hi> &amp;c. Thus do they de<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cant on the publick Conduct of the State, endeavouring to ferment their Disci<g ref="char:EOLhyphen"/>ples and Hearers into a belief that King <hi>James</hi> will shortly return with a powerful Army, and re-settle things on their right foundation. But, in my opinion, those who give credit to this kind of stuff, discover more Passion than
+<pb n="2" facs="tcp:185071:2"/> Reason, and a greater share of Credulity than of Wit or good Understanding. They take an estitmate of things by the Great, w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llance or measure. They condemn or ap<g ref="char:EOLhyphen"/>prove the Motions and Overtures of State in the lump, without examining and comparing the partic<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lar emergencies from whence they spring. Such as these are Men of short dis<g ref="char:EOLhyphen"/>course, who frame their conceptions of Pub<g ref="char:EOLunhyphen"/>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck Aff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irs from their mere exte<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nal Appear<g ref="char:EOLhyphen"/>ance; gazing on the ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>side of the Cabinet, they are dazled, and behold not the Secret within. Such as these are fittest to be impo<g ref="char:EOLhyphen"/>sed on by the Incendiaries of the Nation, who are every where Caballing, and making Par<g ref="char:EOLhyphen"/>ties for the <hi>French</hi> King, under the Notion of being Friends to King <hi>James.</hi> A Notion which they would fain improve so far, as to persuade some easie men, That the Interest of the Church of <hi>England</hi> is involved with that of King <hi>James;</hi> as if the one could not subsi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t without the Restauration of the other. This is the old Artifice of Faction, to dress their Intrigues in the disguise of Religion; a successful way to gain on the softer part of Mankind. And he that suffers himself to be thus cajol'd, led by the Nose, and cully'd out of his Sense, so as not to discern a Snake in the Grass, deserves to be bit for a Remem<g ref="char:EOLhyphen"/>brancer, and a caution, not to be catch'd in the same Noose again. Does not the Church of <hi>England</hi> Hourish much more under the Reign of King <hi>William</hi> and Queen <hi>Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> than it did under King <hi>James?</hi> Wherein has she been discountenanced, or injured? Or will these men pretend to more care for the Church of <hi>England</hi> than the Great Represen<g ref="char:EOLhyphen"/>tative of the Nation? Are not the Lords and Commons now assembled in Parliament (for the major part) of that Communion? Was it not with their Advice and Consent the Regen<g ref="char:EOLhyphen"/>cy was first committed to the then Prince of <hi>Orange?</hi> who afterwards was Crowned King of <hi>England,</hi> &amp;c. A Prince whose Character surpasses the highest Rhetorick of Fame! A Prince, whose more than Royal Virtues charm the World, and bespeak him another <hi>Titus Vespatian, Deliciae humani generis.</hi> It is need<g ref="char:EOLhyphen"/>less to examine or prove his Title to the Im<g ref="char:EOLhyphen"/>perial Crown of these Realms. That has been performed by more acurate and ju<g ref="char:EOLhyphen"/>dicious Pens. It is sufficient that He with His Royal Consort Queen <hi>Mary,</hi> are in actual p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssion of the Throne. We use to say, That Possession is eleven Points of the Law; and had he no other pretensions of Right and Title, yet the Unanimous Consent of the Nation, with which he was invested with the <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>galia,</hi> may well make up the twelfth. His Mild and Indulgent Government r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nders Him beloved at home; and His active Resolution and Conduct against <hi>France</hi> procures and confirms to Him Potent Allies abroad. Only <hi>Lewis</hi> the XIVth opposes Him without, and the big<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tted Faction of <hi>Lewis</hi> here, malign and undermine Him within His Dominions. This restless Faction being baf<g ref="char:EOLhyphen"/>fled in their former Methods, have no other Stratagem left, but sweetning the People with Panegyricks on King <hi>James;</hi> Lectures on the present Interest of the Church of <hi>England,</hi> and fine Harangues on the Generosity of the <hi>French</hi> King: endeavouring to persuade them, That ere long King <hi>James</hi> will return, and claim his own, and that he will find innume<g ref="char:EOLhyphen"/>rable Friends to side with him. By this means they prevail up<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n some easie Natures, and flatter themselves with a greater increase of Proselytes. Whereas, Supposing such a thing should come to pass as the landing of King <hi>James,</hi> yet, considering the general hatred which the <hi>English</hi> bear to the <hi>French,</hi> it seems to me as easie for the <hi>Grand Signi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> with for<g ref="char:EOLhyphen"/>ty or fifty thousand <hi>Turks</hi> to conquer these Nations, as for King <hi>James</hi> to be restored by an Army of Men, whom all the <hi>English</hi> esteem their mortal Enemies. Besides, if the <hi>Irish,</hi> (who are of their own Religion) having late<g ref="char:EOLhyphen"/>ly experienced the <hi>French</hi> Integrity, grow weary of those their new Patrons and most Christian Taskmasters, and thereupon a con<g ref="char:EOLhyphen"/>siderable part of the Army have deserted King <hi>James;</hi> you may be assured the <hi>English</hi> (a People of much more refined Wits, and of contrary Interests to the <hi>French</hi>) will take care to prevent their Encroachments and Ty<g ref="char:EOLhyphen"/>ranny, by not resorting to him at his Land<g ref="char:EOLhyphen"/>ing. To conclude, there is no medium be<g ref="char:EOLhyphen"/>tween <hi>Liberty</hi> and <hi>Slavery.</hi> The <hi>One</hi> will be preserved, by opposing the <hi>French,</hi> and serving King <hi>William</hi> and the present Govern<g ref="char:EOLhyphen"/>ment; the <hi>Other</hi> will be introduced by our Divisions, and Revolt to the <hi>French,</hi> though mask'd with the plausible pretext of serving King <hi>James.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin,</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
